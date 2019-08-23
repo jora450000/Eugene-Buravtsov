@@ -1,5 +1,5 @@
-const net_lan = "192.168.1."
-const strArcFolder = "l:\arc\shares"
+const net_lan = "192.168.1."  'set your lan subnet with mask /24 here
+const strArcFolder = "l:\arc\shares"  'set your folder for backup files here
 
 
 for i = 2 to 254 
